@@ -10,6 +10,6 @@ The objective of this project is to find the relationship between time and month
 
 Based on ACF plots, two different ARIMA models are applied into dataset, and then outlier checking and model diagnosis are implemented to compare these two models. Although these models cannot provide predictions, they already offer sufficient information about time series relationship. 
 
-This repository contains all code for [time series analysis](), one final [presentation slide](https://github.com/lzykaren/Time-Series-Analysis-Water-Usage/blob/master/Time%20Series%20Presentation%20%20Slide.pdf), and one [final report](https://github.com/lzykaren/Time-Series-Analysis-Water-Usage/blob/master/Time%20Series%20Final%20Report.pdf). If you have any question or suggestions, please feel free to contact me. Thank you very much.
+This repository contains all code for [time series analysis](), one final [presentation slide](https://github.com/lzykaren/Time-Series-Analysis-Water-Usage/blob/master/Time%20Series%20Presentation%20%20Slide.pdf), and one [final report](https://github.com/lzykaren/Time-Series-Analysis-Water-Usage/blob/master/Time%20Series%20Final%20Report.pdf). If you have any question or suggestion, please feel free to contact me. Thank you very much.
 
 My email address: ziyanlin3@gmail.com
